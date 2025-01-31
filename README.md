@@ -11,7 +11,7 @@ Named after the Honey Mushroom (Armillaria Ostoyae) known for being the largest 
 - [ ] Create mechanisms for addressing scale
 - [ ] Create supervision for addressing fault tolearance
 - [ ] Create strict encapsolation of abstraction to aid with future changes and maintenance
-- [ ] Create high levels of testing to ensure quality and guard agent regresions
+- [ ] Create high levels of testing to ensure quality and guard against regresions
 - [ ] Create clear and conscide documentation to aid adoption
 
 ## Installation
