@@ -14,7 +14,7 @@ by adding `honey_shroom` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:honey_shroom, "~> 0.1.0"}
+    {:honey_shroom, "~> 0.0.1"}
   ]
 end
 ```
