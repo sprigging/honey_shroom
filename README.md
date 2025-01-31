@@ -1,4 +1,4 @@
-# HoneyShroom
+# HoneyShroom 🍄‍
 
 An ActivityPub abstraction targeting elixir applications.
 
