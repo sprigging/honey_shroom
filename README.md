@@ -6,13 +6,15 @@ Named after the Honey Mushroom (Armillaria Ostoyae) known for being the largest 
 
 ### Goals of this project:
 - [ ] Create an otp application that is used as the core engine for implementing the ActivityPub protocol
-- [ ] Create route helpers that can be added to an exsiting phoenix / plug application
+- [ ] Create route helpers that can be added to an existing phoenix / plug application
 - [ ] Create mechanisms for reconciling data
 - [ ] Create mechanisms for addressing scale
-- [ ] Create supervision for addressing fault tolearance
-- [ ] Create strict encapsolation of abstraction to aid with future changes and maintenance
-- [ ] Create high levels of testing to ensure quality and guard against regresions
-- [ ] Create clear and conscide documentation to aid adoption
+- [ ] Create supervision for addressing fault tolerance
+- [ ] Create strict encapsulation of abstraction to aid with future changes and maintenance
+- [ ] Create high levels of testing to ensure quality and guard against regressions
+- [ ] Create clear and concise documentation to aid adoption
+
+
 
 ## Installation
 
