@@ -1,5 +1,9 @@
 # HoneyShroom
 
+An ActivityPub abstraction targeting elixir applications.
+
+Named after the Honey Mushroom (Armillaria Ostoyae) known for being the largest living organism.
+
 **TODO: Add description**
 
 ## Installation
@@ -18,4 +22,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/honey_shroom>.
-
