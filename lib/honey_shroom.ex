@@ -3,16 +3,6 @@ defmodule HoneyShroom do
   Documentation for `HoneyShroom`.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> HoneyShroom.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
+  @callback resolve_resource(resource :: String.t()) ::
+              {:ok, %{uri: String.t(), url: String.t()}} | {:error, :not_found}
 end

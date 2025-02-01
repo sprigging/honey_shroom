@@ -8,7 +8,7 @@ defmodule HoneyShroom.Application do
   @impl true
   def start(_type, _args) do
     children = [
-      {HoneyShroom.ExampleWorker, name: MyExampleWorker}
+      # {HoneyShroom.ExampleWorker, name: MyExampleWorker}
       # Starts a worker by calling: HoneyShroom.Worker.start_link(arg)
       # {HoneyShroom.Worker, arg}
     ]
