@@ -1,4 +1,3 @@
-# lib/honey_shroom/web/webfinger_controller.ex
 defmodule HoneyShroomWeb.WebFingerController do
   use Phoenix.Controller
 
